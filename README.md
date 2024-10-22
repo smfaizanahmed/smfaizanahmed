@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Computer Vision and Data Science.
 - 💞️ I’m looking to collaborate on AI Projects.
 - 📫 Reach me via ..
-Email: faizan50421@gmail.com 
+Email: faizanahmed281196@gmail.com 
 LinkedIn: https://www.linkedin.com/in/syed-m-faizan-ahmed-34089516a/
 
 <!---
